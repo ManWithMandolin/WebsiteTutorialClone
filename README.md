@@ -1,2 +1,39 @@
 # WebsiteTutorialClone
+
 Clone Dev Ops Introduction Tutorial Website and Repost as Blog
+
+
+
+# DevOps is a practice that combines development and operations to build, test and release software faster and more reliably. 
+# It focuses on automation, collaboration and continuous delivery to improve software quality and speed.
+
+    Helps teams release software faster with automation
+    Reduces manual errors and improves reliability
+    Enables continuous integration and deployment
+    Improves collaboration between development and operations teams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
